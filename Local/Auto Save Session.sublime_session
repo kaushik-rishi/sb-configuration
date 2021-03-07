@@ -1,0 +1,3906 @@
+{
+	"folder_history":
+	[
+		"/home/darkangel/leetcode/march-7",
+		"/home/darkangel/competitivecoding/Gradient Challenge MAR21/Chocomoco Chocolates",
+		"/home/darkangel/competitivecoding/Gradient Challenge MAR21/Kingdom and its Reservoirs",
+		"/home/darkangel/competitivecoding/Gradient Challenge MAR21",
+		"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/non-contextual-topics/proptypes",
+		"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/github-fighter",
+		"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/non-contextual-topics/base/app",
+		"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/non-contextual-topics/props",
+		"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/non-contextual-topics",
+		"/home/darkangel/leetcode/march-6",
+		"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/sockets",
+		"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/socket-chat",
+		"/home/darkangel/nishcay",
+		"/home/darkangel/Desktop/Dev/Frontend/vanilla-js-30/1-drum kit",
+		"/home/darkangel/competitivecoding/March Challenge 2021 Division 2",
+		"/home/darkangel/Desktop/Dev/Backend/cli-apps/rocket-cp",
+		"/home/darkangel/Documents/computer-networking/network-programming",
+		"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/non-contextual-topics/temp",
+		"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/noncontextual-learning",
+		"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/first_component",
+		"/home/darkangel/.config/sublime-text-3/Packages/User",
+		"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/first_component/app",
+		"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/sir/FullStack_NodeJS_Live_March2020/Lecture16/socket-intro",
+		"/home/darkangel/Documents/computer-networking/network-programming/echo-cli-ser",
+		"/home/darkangel/conduit",
+		"/home/darkangel/Desktop/Dev/Backend/backend-apps/conduit",
+		"/home/darkangel/Desktop/conduit",
+		"/home/darkangel/Desktop/Dev/Backend/backend-apps/conduit/",
+		"/home/darkangel/.local/share/Trash/files/conduit",
+		"/home/darkangel/Desktop/Dev/Backend/backend-apps/conduit/secret/Realworld_NodeJS_Sequelize",
+		"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app",
+		"/home/darkangel/Desktop/Dev/Backend/backend-apps/jwt-ninja/pokemon-auth",
+		"/tmp/p",
+		"/home/darkangel/Desktop/learn-auth",
+		"/tmp/JWT-Authentication",
+		"/home/darkangel/contest/1491",
+		"/home/darkangel/Desktop/Dev/Backend/ts-express",
+		"/home/darkangel/competitivecoding/February Lunchtime 2021 Division 2",
+		"/home/darkangel/Desktop/Dev/Backend/cli-apps/rocket-cp/src",
+		"/home/darkangel/competitivecoding",
+		"/home/darkangel/Desktop/linux-programming",
+		"/home/darkangel/Documents/mygit/wtf-makefile/headerfiles",
+		"/home/darkangel/Documents/mygit/StackFinance",
+		"/home/darkangel/competitivecoding/Educational Codeforces Round 100 (Rated for Div. 2)",
+		"/tmp/noob",
+		"/home/darkangel/Desktop/Dev/Frontend/Vanilla/css-2",
+		"/home/darkangel/google-hash-code",
+		"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/morgan",
+		"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/",
+		"/home/darkangel/Desktop/Dev/Frontend/Vanilla/css-2/2-typography",
+		"/home/darkangel/Desktop/Dev/Frontend/Vanilla/css-2/2-typography/content-images",
+		"/home/darkangel/Desktop/Dev/Frontend/Vanilla/css-2/2-typography/image-types",
+		"/tmp/WAD-Group-15",
+		"/tmp/test",
+		"/home/darkangel/contest/1492/b",
+		"/home/darkangel/contest/1492",
+		"/home/darkangel/Desktop/Dev/Frontend/Vanilla/css-1",
+		"/home/darkangel/Desktop/Dev/Frontend/Vanilla/css-2/1-layout",
+		"/home/darkangel/tmp/djangobeginner",
+		"/home/darkangel/Documents/java-learn",
+		"/tmp/noobie",
+		"/home/darkangel/Desktop/jquery-clone",
+		"/home/darkangel/Desktop/Dev/Backend/rocket-cp",
+		"/home/darkangel/competitivecoding/Codeforces Round #703 (Div. 2)",
+		"/home/darkangel/.config/sublime-text-3/Installed Packages",
+		"/home/darkangel/Desktop/Dev/Backend/Coding Block Full Stack Course/social-media-app",
+		"/home/darkangel/Desktop/wes/project",
+		"/home/darkangel/Desktop/wes/Learn-Node",
+		"/home/darkangel/Desktop/Dev/Backend/jwt-ninja",
+		"/home/darkangel/Desktop/Dev/Frontend/vanilla-js-30/2-clock",
+		"/home/darkangel/contest/1486",
+		"/home/darkangel/contest/1490",
+		"/home/darkangel/Desktop/python-fun/opencv",
+		"/home/darkangel/contest/1490/f",
+		"/home/darkangel/cf/contest/home/darkangel/cf/contest/1490",
+		"/home/darkangel/python-fun/socket-programming",
+		"/home/darkangel/python-fun/opencv",
+		"/home/darkangel/Desktop/Dev/Backend/mosh/Vidly-Movie-Backend/",
+		"/home/darkangel/Desktop/Dev/Backend/Coding Block Full Stack Course/server-rendered-todo-list",
+		"/home/darkangel/Desktop/Dev/Backend/Coding Block Full Stack Course/db-orm",
+		"/home/darkangel/Desktop/Dev/Backend/Coding Block Full Stack Course/db",
+		"/home/darkangel/Desktop/sample",
+		"/home/darkangel/suckless/dmenu-practise",
+		"/home/darkangel/suckless/dmenu",
+		"/home/darkangel/suckless/dmenu-patching",
+		"/home/darkangel/Desktop/Dot-files",
+		"/home/darkangel",
+		"/home/darkangel/Desktop/My_Workspace/ADSA_Ass",
+		"/home/darkangel/Desktop/My_Workspace/vim",
+		"/home/darkangel/Desktop/My_Workspace",
+		"/home/darkangel/Desktop/DSA/Recursion and Backtracking",
+		"/home/darkangel/Desktop/My_Workspace/OOPS",
+		"/home/darkangel/Desktop/My_Workspace/bhavesh/stresstester",
+		"/home/darkangel/Desktop/My_Workspace/Stress-Testing-CP",
+		"/home/darkangel/Desktop/My_Workspace/alg",
+		"/home/darkangel/Desktop/JS/Asynchronous Code",
+		"/home/darkangel/Desktop/My_Workspace/Novemeber Long",
+		"/home/darkangel/Desktop/Novemeber Long",
+		"/home/darkangel/Desktop"
+	],
+	"last_version": 3211,
+	"last_window_id": 153,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"rever",
+						"reverseHelper"
+					],
+					[
+						"list-",
+						"list-style-type\tproperty"
+					],
+					[
+						"padd",
+						"padding\tproperty"
+					],
+					[
+						"paddin",
+						"padding-bottom\tproperty"
+					],
+					[
+						"sa",
+						"startPtr"
+					],
+					[
+						"start",
+						"startPtr"
+					],
+					[
+						"end",
+						"endPtr"
+					],
+					[
+						"e",
+						"endPtr"
+					],
+					[
+						"print",
+						"printLL"
+					],
+					[
+						"socket",
+						"socketio"
+					],
+					[
+						"background",
+						"background\tproperty"
+					],
+					[
+						"max",
+						"matchPrefixLen"
+					],
+					[
+						"besl",
+						"bestLength"
+					],
+					[
+						"matc",
+						"matchPrefixLength"
+					],
+					[
+						"CI",
+						"CIDRS"
+					],
+					[
+						"CIDR",
+						"CIDRS"
+					],
+					[
+						"CIR",
+						"CIDRBaseBinary"
+					],
+					[
+						"IP",
+						"IP_BITSET"
+					],
+					[
+						"ma",
+						"matchPrefixLength"
+					],
+					[
+						"byte",
+						"byteBinary"
+					],
+					[
+						"one",
+						"oneByte"
+					],
+					[
+						"add",
+						"addressBlock"
+					],
+					[
+						"table",
+						"tableEntryCount"
+					],
+					[
+						"in",
+						"index.css"
+					],
+					[
+						"getelement",
+						"getElementById\t( elementId: DOMString ): Element Document"
+					],
+					[
+						"ind",
+						"index.js"
+					],
+					[
+						"inde",
+						"index.html"
+					],
+					[
+						"prese",
+						"preset-react"
+					],
+					[
+						"index",
+						"index.css"
+					],
+					[
+						"Reacto",
+						"ReactDOM"
+					],
+					[
+						"Com",
+						"Component {\t⟠"
+					],
+					[
+						"from",
+						"from 'react-dom';\t⟠"
+					],
+					[
+						"pst",
+						"postBody"
+					],
+					[
+						"python",
+						"python3/"
+					],
+					[
+						"belongTo",
+						"belongsToMany"
+					],
+					[
+						"belong",
+						"belongsTo"
+					],
+					[
+						"created",
+						"createdObj"
+					],
+					[
+						"cos",
+						"minCostForMoving"
+					],
+					[
+						"ts",
+						"tsconfig.json"
+					],
+					[
+						"as",
+						"assets_private/"
+					],
+					[
+						"fp",
+						"fptr"
+					],
+					[
+						"probl",
+						"problemMetaData"
+					],
+					[
+						"Tim",
+						"Times New\t⟠"
+					],
+					[
+						"font-",
+						"font-family\tproperty"
+					],
+					[
+						"if",
+						"ifmain\tif __name__ == '__main__'"
+					],
+					[
+						"copmo",
+						"componentUrl"
+					],
+					[
+						"card",
+						"cardHtml"
+					],
+					[
+						"log",
+						"loginIfNeeded"
+					],
+					[
+						"openre",
+						"opensans-regular-webfont.woff"
+					],
+					[
+						"grid-cols",
+						"grid-template-columns\tproperty"
+					],
+					[
+						"backgroun",
+						"background-color\tproperty"
+					],
+					[
+						"backgru",
+						"background-color\tproperty"
+					],
+					[
+						"grid-ro",
+						"grid-row-gap\tproperty"
+					],
+					[
+						"bord",
+						"border-radius\tproperty"
+					],
+					[
+						"grid-template",
+						"grid-template-columns\tproperty"
+					],
+					[
+						"object",
+						"object-fit\tproperty"
+					],
+					[
+						"grid-templ",
+						"grid-template-rows\tproperty"
+					],
+					[
+						"margin",
+						"margin-right\tproperty"
+					],
+					[
+						"grd-col",
+						"grid-column-gap\tproperty"
+					],
+					[
+						"heig",
+						"min-height\tproperty"
+					],
+					[
+						"back",
+						"background\tproperty"
+					],
+					[
+						"fl",
+						"flex-start\talign-self"
+					],
+					[
+						"overfl",
+						"overflow\tproperty"
+					],
+					[
+						"mari",
+						"margin\tproperty"
+					],
+					[
+						"bac",
+						"background-color\tproperty"
+					],
+					[
+						"inline",
+						"inline-block\tdisplay"
+					],
+					[
+						"getPro",
+						"getProblemCode"
+					],
+					[
+						"problem",
+						"problemMetaData"
+					],
+					[
+						"prob",
+						"problemMetaData"
+					],
+					[
+						"TEMPLATE",
+						"TEMPLATE_PATH"
+					],
+					[
+						"conlo",
+						"console_log"
+					],
+					[
+						"TEMPL",
+						"TEMPLATE_PATH"
+					],
+					[
+						"en",
+						"env/"
+					],
+					[
+						"mkdir",
+						"mkdirp.sync"
+					],
+					[
+						"conten",
+						"contents"
+					],
+					[
+						"writeF",
+						"fs.writeFileSync"
+					],
+					[
+						"parse",
+						"parseInt\t( s: string, radix: int ): int Global"
+					],
+					[
+						"transion",
+						"transition-delay\tproperty"
+					],
+					[
+						"random",
+						"randomUserName"
+					],
+					[
+						"ran",
+						"Math_random\t(): number Math"
+					],
+					[
+						"json",
+						"JSON_parse\t( json: string ): any JSON"
+					],
+					[
+						"expre",
+						"express.static"
+					],
+					[
+						"Data",
+						"DataTypes"
+					],
+					[
+						"getEleme",
+						"getElementsByTagName\t( localName: DOMString ): HTMLCollection Document"
+					],
+					[
+						"document",
+						"document\t: Document Window"
+					],
+					[
+						"getE",
+						"getElementById\t( elementId: DOMString ): Element Document"
+					],
+					[
+						"sed",
+						"second_max"
+					],
+					[
+						"second",
+						"second_max_left"
+					],
+					[
+						"fre",
+						"frequencies"
+					],
+					[
+						"gethostname",
+						"gethostname()\tfunction ⟠"
+					],
+					[
+						"ROTate",
+						"ROTATE_90_CLOCKWISE"
+					],
+					[
+						"IMREAd",
+						"IMREAD_GRAYSCALE"
+					],
+					[
+						"ROT",
+						"ROTATE_90_CLOCKWISE\tint ⟠"
+					],
+					[
+						"nump",
+						"numpy as np\tmodule ⟠"
+					],
+					[
+						"IMREAD",
+						"IMREAD_GRAYSCALE"
+					],
+					[
+						"c",
+						"curr"
+					],
+					[
+						"FILE",
+						"FILE_NAME"
+					],
+					[
+						"file",
+						"FILE_NAME"
+					],
+					[
+						"mile",
+						"milestones"
+					],
+					[
+						"ml",
+						"milestone_count"
+					],
+					[
+						"miles",
+						"milestones"
+					],
+					[
+						"coins",
+						"coins_size"
+					],
+					[
+						"all",
+						"allIndices"
+					],
+					[
+						"coin",
+						"coin_index"
+					],
+					[
+						"Arit",
+						"arithmeticObject"
+					],
+					[
+						"Arith",
+						"Arithmetic"
+					],
+					[
+						"string",
+						"string_lcs"
+					],
+					[
+						"choice",
+						"choice2"
+					],
+					[
+						"targe",
+						"target"
+					],
+					[
+						"prei",
+						"print_combination_bounded"
+					],
+					[
+						"tar",
+						"target"
+					],
+					[
+						"targ",
+						"target_temp"
+					],
+					[
+						"print_",
+						"print_combination_unbounded"
+					],
+					[
+						"max_ub",
+						"max_value_unbounded"
+					],
+					[
+						"optim",
+						"optimal_coins_top_down"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Java/JavaC.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/User/python_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/python_custom_build.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/python_build.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/User/python_custom_build.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ui",
+						"UI: Select Theme"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"tm",
+						"View: Toggle Menu"
+					],
+					[
+						"ui thee",
+						"UI: Select Theme"
+					],
+					[
+						"color theme",
+						"UI: Select Color Scheme"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"new",
+						"ANF: New File"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"convert inden",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"indentation",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"ui se",
+						"UI: Select Theme"
+					],
+					[
+						"jsel",
+						"Set Syntax: JSONBABEL"
+					],
+					[
+						"javasc",
+						"Set Syntax: JavaScript (Babel)"
+					],
+					[
+						"json",
+						"Set Syntax: JSONBABEL"
+					],
+					[
+						"settings",
+						"Preferences: Settings"
+					],
+					[
+						"setbabel",
+						"Set Syntax: JSONBABEL"
+					],
+					[
+						"setjson",
+						"Set Syntax: JSONBABEL"
+					],
+					[
+						"sjson",
+						"Set Syntax: JSON"
+					],
+					[
+						"setbabe",
+						"Set Syntax: JavaScript (Babel)"
+					],
+					[
+						"set json",
+						"Set Syntax: JSON"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"babel",
+						"Set Syntax: JavaScript (Babel)"
+					],
+					[
+						"set synta json",
+						"Set Syntax: JSON"
+					],
+					[
+						"synta",
+						"Set Syntax: Perl"
+					],
+					[
+						"settings ",
+						"Preferences: Settings"
+					],
+					[
+						"set babel",
+						"Set Syntax: JavaScript (Babel)"
+					],
+					[
+						"set",
+						"Set Syntax: Tcl"
+					],
+					[
+						"sett",
+						"Preferences: Settings"
+					],
+					[
+						"u ",
+						"UI: Select Theme"
+					],
+					[
+						"status",
+						"View: Toggle Status Bar"
+					],
+					[
+						"install p",
+						"Package Control: Install Package"
+					],
+					[
+						"remove ",
+						"Package Control: Remove Package"
+					],
+					[
+						"set javasc",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"set syntax: jsx",
+						"Set Syntax: JSX"
+					],
+					[
+						"set synta jsx",
+						"Set Syntax: JSX"
+					],
+					[
+						"set syn java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"set syn jsx",
+						"Set Syntax: JSX"
+					],
+					[
+						"cance",
+						"Build: Cancel"
+					],
+					[
+						"terminal",
+						"Terminal: Open"
+					],
+					[
+						"cancel ",
+						"Build: Cancel"
+					],
+					[
+						"build",
+						"Build: New Build System"
+					],
+					[
+						"docs",
+						"Kite: Docs At Cursor"
+					],
+					[
+						"kite doct",
+						"Kite: Docs At Cursor"
+					],
+					[
+						"kite",
+						"Kite: Open Copilot"
+					],
+					[
+						"kite start",
+						"Kite: Start Engine"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"sort",
+						"Sort Lines"
+					],
+					[
+						"drop",
+						"Origami: Destroy Current Pane"
+					],
+					[
+						"togsta",
+						"View: Toggle Status Bar"
+					],
+					[
+						"togm",
+						"View: Toggle Menu"
+					],
+					[
+						"sethtml",
+						"Set Syntax: HTML"
+					],
+					[
+						"list ",
+						"Package Control: List Packages"
+					],
+					[
+						"installed",
+						"Package Control: Install Local Dependency"
+					],
+					[
+						"setejs",
+						"Set Syntax: EJS"
+					],
+					[
+						"disba",
+						"Package Control: Disable Package"
+					],
+					[
+						"togme",
+						"View: Toggle Menu"
+					],
+					[
+						"format",
+						"SublimeAStyleFormatter: Format Current File"
+					],
+					[
+						"settype",
+						"Set Syntax: TypeScript"
+					],
+					[
+						"togmen",
+						"View: Toggle Menu"
+					],
+					[
+						"oriright",
+						"Origami: Create Pane on the Right"
+					],
+					[
+						"set c",
+						"Set Syntax: C"
+					],
+					[
+						"termina",
+						"Terminal: Open"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"installe",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"delete",
+						"File: Delete"
+					],
+					[
+						"todo",
+						"TodoReview: Open Files"
+					],
+					[
+						"color the",
+						"Color Highlight: Color Highlight Current File"
+					],
+					[
+						"colr",
+						"Color Highlight: Reset"
+					],
+					[
+						"togmne",
+						"View: Toggle Menu"
+					],
+					[
+						"keyb",
+						"Preferences: Key Bindings"
+					],
+					[
+						"indentat",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"open",
+						"File: Open In Browser - Production Server"
+					],
+					[
+						"destr",
+						"Origami: Destroy Current Pane"
+					],
+					[
+						"open in br",
+						"File: Open In Browser - Production Server"
+					],
+					[
+						"oridestr",
+						"Origami: Destroy Current Pane"
+					],
+					[
+						"orizoom",
+						"Origami: Zoom Current Pane"
+					],
+					[
+						"ori right",
+						"Origami: Create Pane on the Right"
+					],
+					[
+						"drop pa",
+						"Origami: Destroy Current Pane"
+					],
+					[
+						"origright",
+						"Origami: Create Pane on the Right"
+					],
+					[
+						"des cur",
+						"Origami: Destroy Current Pane"
+					],
+					[
+						"orrig",
+						"Origami: Create Pane on the Right"
+					],
+					[
+						"sestting",
+						"Preferences: Settings"
+					],
+					[
+						"lef",
+						"Origami: Create Pane on the Left"
+					],
+					[
+						"tog",
+						"View: Toggle Menu"
+					],
+					[
+						"tog me",
+						"View: Toggle Menu"
+					],
+					[
+						"togg",
+						"Emmet: Toggle Comment"
+					],
+					[
+						"zoom",
+						"Origami: Unzoom Current Pane"
+					],
+					[
+						"new ",
+						"ANF: New File"
+					],
+					[
+						"new file",
+						"File: New View into File"
+					],
+					[
+						"origamide",
+						"Origami: Destroy Current Pane"
+					],
+					[
+						"oleft",
+						"Origami: Create Pane on the Left"
+					],
+					[
+						"ori destr",
+						"Origami: Destroy Current Pane"
+					],
+					[
+						"dri destro",
+						"Origami: Destroy Pane on the Right"
+					],
+					[
+						"ori drop",
+						"Origami: Destroy Pane Above"
+					],
+					[
+						"ori rig",
+						"Origami: Create Pane on the Right"
+					],
+					[
+						"ori bel",
+						"Origami: Create Pane Below"
+					],
+					[
+						"ori left",
+						"Origami: Create Pane on the Left"
+					],
+					[
+						"de",
+						"File: Delete"
+					],
+					[
+						"remove p",
+						"Package Control: Remove Package"
+					],
+					[
+						"ren",
+						"Rename File"
+					],
+					[
+						"rename",
+						"Rename File"
+					],
+					[
+						"new f",
+						"ANF: New File"
+					],
+					[
+						"new fi",
+						"File: New View into File"
+					],
+					[
+						"tme",
+						"View: Toggle Menu"
+					],
+					[
+						"togl",
+						"View: Toggle Menu"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"toggle men",
+						"View: Toggle Menu"
+					],
+					[
+						"scheme",
+						"UI: Select Theme"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"toggle menu",
+						"View: Toggle Menu"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"view stat",
+						"View: Toggle Status Bar"
+					],
+					[
+						"toggl mne",
+						"View: Toggle Menu"
+					],
+					[
+						"togglem",
+						"View: Toggle Menu"
+					],
+					[
+						"package install",
+						"Package Control: Install Package"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"remove packa",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal ",
+						"Package Control: Install Package"
+					],
+					[
+						"goto ",
+						"Emmet: Go to Previous Edit Point"
+					],
+					[
+						"toggle",
+						"View: Toggle Status Bar"
+					],
+					[
+						"toggle stat",
+						"View: Toggle Status Bar"
+					],
+					[
+						"Set Syntax",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"set syntac text",
+						"Set Syntax: reStructuredText"
+					],
+					[
+						"diff",
+						"Set Syntax: Diff"
+					],
+					[
+						"di",
+						"Set Syntax: Diff"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 267.0,
+				"history":
+				[
+					"return",
+					"return;",
+					"exit()",
+					"os.listdir()",
+					"import os",
+					"exit()",
+					"ls"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": false,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": true,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/darkangel/competitivecoding/Gradient Challenge MAR21/Kapil and Strings/K.cpp",
+				"/home/darkangel/competitivecoding/Gradient Challenge MAR21/Uneven Weights/U.cpp",
+				"/home/darkangel/competitivecoding/Gradient Challenge MAR21/The Automatic Door/T.cpp",
+				"/home/darkangel/leetcode/march-7/206.recursively reverse a linked list.md",
+				"/home/darkangel/leetcode/march-7/206.cpp",
+				"/home/darkangel/genetic/main.py",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/github-fighter/app/index.css",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/github-fighter/app/index.js",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/github-fighter/app/components/Popular.js",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/non-contextual-topics/props/app/Hello.js",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/non-contextual-topics/props/app/index.css",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/non-contextual-topics/props/app/index.js",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/non-contextual-topics/props/app/App.js",
+				"/home/darkangel/leetcode/march-6/237. Delete Node in a Linked List.md",
+				"/home/darkangel/leetcode/march-6/876.Middle of the Linked List.md",
+				"/home/darkangel/leetcode/march-6/1290.cpp",
+				"/home/darkangel/leetcode/march-6/1474.Delete N Nodes After M Nodes of a Linked List.cpp",
+				"/home/darkangel/leetcode/march-6/1290. Convert Binary Number in a Linked List to Integer.md",
+				"/home/darkangel/leetcode/march-6/1474.Delete N Nodes After M Nodes of a Linked List.md",
+				"/home/darkangel/leetcode/march-6/1290. Convert Binary Number in a Linked List to Integer",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/socket",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/sockets/server.js",
+				"/home/darkangel/Documents/computer-networking/network-programming/echo-server-sockets/client.py",
+				"/home/darkangel/Documents/computer-networking/network-programming/echo-server-sockets/server.py",
+				"/home/darkangel/Documents/computer-networking/network-programming/echo-cli-ser/server.py",
+				"/home/darkangel/Documents/computer-networking/network-programming/simulate-forwarding-table/string_utils.h",
+				"/home/darkangel/Documents/computer-networking/network-programming/simulate-forwarding-table/bitset_conversion_utils.h",
+				"/home/darkangel/Documents/computer-networking/network-programming/simulate-forwarding-table/calculation.h",
+				"/home/darkangel/Documents/computer-networking/network-programming/simulate-forwarding-table/sample-forwarding-table.txt",
+				"/home/darkangel/Documents/computer-networking/network-programming/simulate-forwarding-table/main.cpp",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/non-contextual-topics/webpack.config.js",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/non-contextual-topics/package.json",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/non-contextual-topics/app/index.css",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/non-contextual-topics/app/index.js",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/non-contextual-topics/README.md",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/noncontextual-learning/app/index.js",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/noncontextual-learning/app/index.css",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/noncontextual-learning/app/index.html",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/noncontextual-learning/webpack.config.js",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/noncontextual-learning/package.json",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/first_component/package.json",
+				"/home/darkangel/.config/sublime-text-3/Packages/Babel/JSON.tmLanguage",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/first_component/app/index.js",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/first_component/app/index.css",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/first_component/dist/index.html",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/first_component/webpack.config.js",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/first_component/dist/index_bundle.js",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/first_component/app/index.html",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/first_component/app/untitled.js",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/first_component/README.md",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/first_component/package-lock.json",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/first_component/app/nibba.js",
+				"/home/darkangel/.config/sublime-text-3/Packages/Babel/JavaScript (Babel).tmLanguage",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/first_component/app/test.js",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/first_component/.gitignore",
+				"/home/darkangel/.config/sublime-text-3/Packages/User/python_build.sublime-build",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/sir/FullStack_NodeJS_Live_March2020/Lecture16/socket-intro/README.md",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/sockets/public/client.js",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/sockets/public/index.html",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/sockets/node_modules/express/lib/application.js",
+				"/home/darkangel/Documents/computer-networking/network-programming/echoserver.py",
+				"/home/darkangel/Desktop/Dev/Backend/backend-apps/conduit/src/models/tagModel.js",
+				"/home/darkangel/Desktop/Dev/Backend/backend-apps/conduit/src/models/articleModel.js",
+				"/home/darkangel/Desktop/Dev/Backend/backend-apps/conduit/src/models/commentModel.js",
+				"/home/darkangel/Desktop/Dev/Backend/backend-apps/conduit/src/models/userModel.js",
+				"/home/darkangel/Desktop/Dev/Backend/backend-apps/conduit/src/models/README.md",
+				"/home/darkangel/Desktop/Dev/Backend/backend-apps/conduit/src/server.js",
+				"/home/darkangel/Desktop/Dev/Backend/backend-apps/conduit/secret/Realworld_NodeJS_Sequelize/README.md",
+				"/home/darkangel/Desktop/Dev/Backend/backend-apps/conduit/src/db/index.js",
+				"/home/darkangel/Desktop/Dev/Backend/backend-apps/conduit/src/models/profileModel.js",
+				"/home/darkangel/Desktop/Dev/Backend/backend-apps/jwt-ninja/pokemon-auth/public/styles.css",
+				"/home/darkangel/Desktop/Dev/Backend/backend-apps/jwt-ninja/pokemon-auth/views/partials/header.ejs",
+				"/tmp/p/in5.txt",
+				"/tmp/p/in4.txt",
+				"/tmp/p/in3.txt",
+				"/tmp/p/in2.txt",
+				"/tmp/p/in1.txt",
+				"/home/darkangel/contest/1491/a/a.cpp",
+				"/home/darkangel/Desktop/Dev/Backend/ts-express/src/views/index.ejs",
+				"/home/darkangel/Desktop/Dev/Backend/cli-apps/rocket-cp/TOLEARN.md",
+				"/tmp/CopyQ.qSzgbM.png",
+				"/home/darkangel/Desktop/Dev/Backend/cli-apps/rocket-cp/TOIMPROVE.md",
+				"/tmp/CopyQ.UNdCyC.png",
+				"/home/darkangel/Desktop/Dev/Backend/cli-apps/rocket-cp/.gitignore",
+				"/home/darkangel/Desktop/Dev/Backend/cli-apps/rocket-cp/testing/Makefile",
+				"/home/darkangel/Desktop/Dev/Backend/cli-apps/rocket-cp/package-lock.json",
+				"/home/darkangel/Desktop/Dev/Backend/cli-apps/rocket-cp/package.json",
+				"/home/darkangel/Desktop/linux-programming/overview/2. File input output/writing to a file.c",
+				"/home/darkangel/Desktop/linux-programming/overview/2. File input output/reading from a file.c",
+				"/home/darkangel/Desktop/linux-programming/overview/2. File input output/somefile.txt",
+				"/home/darkangel/Desktop/linux-programming/overview/introduction.c",
+				"/home/darkangel/main.cpp",
+				"/home/darkangel/Desktop/Dev/Frontend/Vanilla/css-2/2-typography/embedding-web-fonts/style.css",
+				"/home/darkangel/Downloads/8Queen.py",
+				"/tmp/kite_tutorial.py",
+				"/home/darkangel/google-hash-code/HashCode2020/Books.py",
+				"/home/darkangel/Downloads/default.html",
+				"/home/darkangel/google-hash-code/main.py",
+				"/home/darkangel/google-hash-code/ms/HashCode2020/Books.py",
+				"/home/darkangel/google-hash-code/input.txt",
+				"/home/darkangel/google-hash-code/output.txt",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/morgan/public/panja.html",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/morgan/public/index.html",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/morgan/req",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/query design.sql",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/src/public/app/write-post.js",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/src/public/app/all-posts.js",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/src/public/components/write-post.html",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/src/public/index.html",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/src/public/components/all-posts.html",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/src/public/components/navbar.html",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/src/public/app/navbar.js",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/src/public/app/common.js",
+				"/home/darkangel/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+				"/home/darkangel/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/README.md",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/src/public/app/common.css",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/src/public/components/all-articles.html",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/dummydata.faker",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/src/routes/users/index.js",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/secret/components/navbar.html",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/secret/app/navbar.js",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/src/utils/userNameUtilsBuggy.js",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/src/utils/usernameUtils.js",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/src/public/components/footer.html",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/secret/app/common.js",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/src/controllers/commentController.js",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/src/public/app/navbar.html"
+			],
+			"find":
+			{
+				"height": 53.0
+			},
+			"find_in_files":
+			{
+				"height": 244.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"|"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 53.0
+			},
+			"input":
+			{
+				"height": 132.0
+			},
+			"menu_visible": false,
+			"output.astyle_error_message":
+			{
+				"height": 0.0
+			},
+			"output.doc":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 460.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.nodejs":
+			{
+				"height": 80.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 102.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"c",
+						"C.cpp"
+					],
+					[
+						"index.html",
+						"app/index.html"
+					],
+					[
+						"css",
+						"app/index.css"
+					],
+					[
+						"pop",
+						"app/components/Popular.js"
+					],
+					[
+						"inde",
+						"app/index.js"
+					],
+					[
+						"hello",
+						"app/Hello.js"
+					],
+					[
+						"273",
+						"237. Delete Node in a Linked List.md"
+					],
+					[
+						"cpp",
+						"1474.Delete N Nodes After M Nodes of a Linked List.cpp"
+					],
+					[
+						"index",
+						"public/index.html"
+					],
+					[
+						"cli",
+						"echo-server-sockets/client.py"
+					],
+					[
+						"sample",
+						"simulate-forwarding-table/sample-forwarding-table.txt"
+					],
+					[
+						"utils",
+						"simulate-forwarding-table/utils.h"
+					],
+					[
+						"pc",
+						"package.json"
+					],
+					[
+						"webpack",
+						"webpack.config.js"
+					],
+					[
+						"pak",
+						"package.json"
+					],
+					[
+						"index.css",
+						"app/index.css"
+					],
+					[
+						"app",
+						"app/index.js"
+					],
+					[
+						"read",
+						"README.md"
+					],
+					[
+						"pack",
+						"package.json"
+					],
+					[
+						"packa",
+						"package.json"
+					],
+					[
+						"we",
+						"webpack.config.js"
+					],
+					[
+						"pac",
+						"package.json"
+					],
+					[
+						"bund",
+						"dist/index_bundle.js"
+					],
+					[
+						"web",
+						"webpack.config.js"
+					],
+					[
+						"json",
+						"package.json"
+					],
+					[
+						"",
+						"README.md"
+					],
+					[
+						"readem",
+						"README.md"
+					],
+					[
+						"server",
+						"server.js"
+					],
+					[
+						"application",
+						"node_modules/express/lib/application.js"
+					],
+					[
+						"ser",
+						"server.py"
+					],
+					[
+						"rel",
+						"src/models/relations.js"
+					],
+					[
+						"tagm",
+						"src/models/tagModel.js"
+					],
+					[
+						"commn",
+						"src/models/commentModel.js"
+					],
+					[
+						"model/index",
+						"secret/Realworld_NodeJS_Sequelize/src/models/index.js"
+					],
+					[
+						"readme",
+						"src/models/README.md"
+					],
+					[
+						"reaedme",
+						"secret/Realworld_NodeJS_Sequelize/README.md"
+					],
+					[
+						"dbin",
+						"src/db/index.js"
+					],
+					[
+						"userMode",
+						"src/models/userModel.js"
+					],
+					[
+						"tag",
+						"src/models/tagModel.js"
+					],
+					[
+						"prom",
+						"src/models/profileModel.js"
+					],
+					[
+						"cm",
+						"src/models/commentModel.js"
+					],
+					[
+						"sre",
+						"src/server.js"
+					],
+					[
+						"script",
+						"script.sh"
+					],
+					[
+						"in5",
+						"in5.txt"
+					],
+					[
+						"in4",
+						"in4.txt"
+					],
+					[
+						"in3",
+						"in3.txt"
+					],
+					[
+						"in2",
+						"in2.txt"
+					],
+					[
+						"in1",
+						"in1.txt"
+					],
+					[
+						"auth",
+						"authServer.js"
+					],
+					[
+						"a.cpp",
+						"a/a.cpp"
+					],
+					[
+						"b.cpp",
+						"b/b.cpp"
+					],
+					[
+						"a",
+						"a/a.cpp"
+					],
+					[
+						"pap",
+						"Palpal Strings/P.cpp"
+					],
+					[
+						"to",
+						"TOIMPROVE.md"
+					],
+					[
+						"out",
+						"output.txt"
+					],
+					[
+						"re",
+						"req"
+					],
+					[
+						"wrte",
+						"src/public/app/write-post.js"
+					],
+					[
+						"wir",
+						"src/public/components/write-post.html"
+					],
+					[
+						"write",
+						"src/public/app/write-post.js"
+					],
+					[
+						"poston",
+						"src/controllers/postController.js"
+					],
+					[
+						"all",
+						"src/public/app/all-posts.js"
+					],
+					[
+						"common",
+						"src/public/app/common.js"
+					],
+					[
+						"navba",
+						"src/public/components/navbar.html"
+					],
+					[
+						"common.css",
+						"src/public/app/common.css"
+					],
+					[
+						"navbar",
+						"src/public/components/navbar.html"
+					],
+					[
+						"rread",
+						"~/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/README.md"
+					],
+					[
+						"navbar.html",
+						"secret/components/navbar.html"
+					],
+					[
+						"route user",
+						"src/routes/users/index.js"
+					],
+					[
+						"sere",
+						"src/server.js"
+					],
+					[
+						"routesuser",
+						"src/routes/users/index.js"
+					],
+					[
+						"usercon",
+						"src/controllers/userController.js"
+					],
+					[
+						"comonjs",
+						"secret/app/common.js"
+					],
+					[
+						"comm",
+						"src/controllers/commentController.js"
+					],
+					[
+						"READ",
+						"README.md"
+					],
+					[
+						"user",
+						"src/utils/usernameUtils.js"
+					],
+					[
+						"comment",
+						"src/controllers/commentController.js"
+					],
+					[
+						"mode",
+						"src/db/models.js"
+					],
+					[
+						"meida",
+						"1-layout/media-queries/stylesheets/style.css"
+					],
+					[
+						"index grid",
+						"1-layout/grid/index.html"
+					],
+					[
+						"media",
+						"1-layout/media-queries/stylesheets/style.css"
+					],
+					[
+						"b.cp",
+						"b/b.cpp"
+					],
+					[
+						"hidi",
+						"hiding-elements/index.html"
+					],
+					[
+						"model",
+						"src/db/models.js"
+					],
+					[
+						"models",
+						"polls/models.py"
+					],
+					[
+						"settings",
+						"djangobeginner/settings.py"
+					],
+					[
+						"urls",
+						"djangobeginner/urls.py"
+					],
+					[
+						"jq",
+						"jquery.js"
+					],
+					[
+						"file",
+						"src/fileUtils.js"
+					],
+					[
+						"comme",
+						"src/controllers/commentController.js"
+					],
+					[
+						"conrtol",
+						"src/controllers/userController.js"
+					],
+					[
+						"usern",
+						"src/utils/usernameUtils.js"
+					],
+					[
+						"usernam",
+						"src/utils/usernameUtils.js"
+					],
+					[
+						"db.",
+						"src/db/models.js"
+					],
+					[
+						"contro",
+						"src/controllers/commentController.js"
+					],
+					[
+						"contr",
+						"src/controllers/userController.js"
+					],
+					[
+						"ctrono",
+						"src/controllers/postController.js"
+					],
+					[
+						"scr",
+						"scripts/script.js"
+					],
+					[
+						"c1.c",
+						"c1/c1.cpp"
+					],
+					[
+						"tutori",
+						"tutorial2.py"
+					],
+					[
+						"cp",
+						"f.cpp"
+					],
+					[
+						"con",
+						"db/connector.js"
+					],
+					[
+						"conn",
+						"db/connector.js"
+					],
+					[
+						"conne",
+						"db/connector.js"
+					],
+					[
+						"task",
+						"models/tasks.js"
+					],
+					[
+						"yarn",
+						"yarn.lock"
+					],
+					[
+						"serve",
+						"server.js"
+					],
+					[
+						"yar",
+						"yarn.lock"
+					],
+					[
+						"mysq",
+						"node_modules/mysql2/lib/auth_plugins/mysql_native_password.js"
+					],
+					[
+						"config",
+						"config.def.h"
+					],
+					[
+						"dmenu.1",
+						"dmenu.1"
+					],
+					[
+						"1",
+						"dmenu.1"
+					],
+					[
+						"dmenu.c",
+						"dmenu.c"
+					],
+					[
+						"in",
+						"input.txt"
+					],
+					[
+						"tem",
+						"template.cpp"
+					],
+					[
+						"temp",
+						"template.cpp"
+					],
+					[
+						"app fetc",
+						"7 - Fetch API/app.js"
+					],
+					[
+						"app.",
+						"8 - EasyHTTP FETCH and PROMISES/app.js"
+					],
+					[
+						"fetc",
+						"7 - Fetch API/posts.json"
+					],
+					[
+						"fetch",
+						"7 - Fetch API/app.js"
+					],
+					[
+						"inp",
+						"input.txt"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 442.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 781.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 328.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"merg",
+						"mergeTwoLists"
+					],
+					[
+						"rever",
+						"reverseHelper"
+					],
+					[
+						"list-",
+						"list-style-type\tproperty"
+					],
+					[
+						"padd",
+						"padding\tproperty"
+					],
+					[
+						"paddin",
+						"padding-bottom\tproperty"
+					],
+					[
+						"sa",
+						"startPtr"
+					],
+					[
+						"start",
+						"startPtr"
+					],
+					[
+						"end",
+						"endPtr"
+					],
+					[
+						"e",
+						"endPtr"
+					],
+					[
+						"print",
+						"printLL"
+					],
+					[
+						"socket",
+						"socketio"
+					],
+					[
+						"background",
+						"background\tproperty"
+					],
+					[
+						"max",
+						"matchPrefixLen"
+					],
+					[
+						"besl",
+						"bestLength"
+					],
+					[
+						"matc",
+						"matchPrefixLength"
+					],
+					[
+						"CI",
+						"CIDRS"
+					],
+					[
+						"CIDR",
+						"CIDRS"
+					],
+					[
+						"CIR",
+						"CIDRBaseBinary"
+					],
+					[
+						"IP",
+						"IP_BITSET"
+					],
+					[
+						"ma",
+						"matchPrefixLength"
+					],
+					[
+						"byte",
+						"byteBinary"
+					],
+					[
+						"one",
+						"oneByte"
+					],
+					[
+						"add",
+						"addressBlock"
+					],
+					[
+						"table",
+						"tableEntryCount"
+					],
+					[
+						"in",
+						"index.css"
+					],
+					[
+						"getelement",
+						"getElementById\t( elementId: DOMString ): Element Document"
+					],
+					[
+						"ind",
+						"index.js"
+					],
+					[
+						"inde",
+						"index.html"
+					],
+					[
+						"prese",
+						"preset-react"
+					],
+					[
+						"index",
+						"index.css"
+					],
+					[
+						"Reacto",
+						"ReactDOM"
+					],
+					[
+						"Com",
+						"Component {\t⟠"
+					],
+					[
+						"from",
+						"from 'react-dom';\t⟠"
+					],
+					[
+						"pst",
+						"postBody"
+					],
+					[
+						"python",
+						"python3/"
+					],
+					[
+						"belongTo",
+						"belongsToMany"
+					],
+					[
+						"belong",
+						"belongsTo"
+					],
+					[
+						"created",
+						"createdObj"
+					],
+					[
+						"cos",
+						"minCostForMoving"
+					],
+					[
+						"ts",
+						"tsconfig.json"
+					],
+					[
+						"as",
+						"assets_private/"
+					],
+					[
+						"fp",
+						"fptr"
+					],
+					[
+						"probl",
+						"problemMetaData"
+					],
+					[
+						"Tim",
+						"Times New\t⟠"
+					],
+					[
+						"font-",
+						"font-family\tproperty"
+					],
+					[
+						"if",
+						"ifmain\tif __name__ == '__main__'"
+					],
+					[
+						"copmo",
+						"componentUrl"
+					],
+					[
+						"card",
+						"cardHtml"
+					],
+					[
+						"log",
+						"loginIfNeeded"
+					],
+					[
+						"openre",
+						"opensans-regular-webfont.woff"
+					],
+					[
+						"grid-cols",
+						"grid-template-columns\tproperty"
+					],
+					[
+						"backgroun",
+						"background-color\tproperty"
+					],
+					[
+						"backgru",
+						"background-color\tproperty"
+					],
+					[
+						"grid-ro",
+						"grid-row-gap\tproperty"
+					],
+					[
+						"bord",
+						"border-radius\tproperty"
+					],
+					[
+						"grid-template",
+						"grid-template-columns\tproperty"
+					],
+					[
+						"object",
+						"object-fit\tproperty"
+					],
+					[
+						"grid-templ",
+						"grid-template-rows\tproperty"
+					],
+					[
+						"margin",
+						"margin-right\tproperty"
+					],
+					[
+						"grd-col",
+						"grid-column-gap\tproperty"
+					],
+					[
+						"heig",
+						"min-height\tproperty"
+					],
+					[
+						"back",
+						"background\tproperty"
+					],
+					[
+						"fl",
+						"flex-start\talign-self"
+					],
+					[
+						"overfl",
+						"overflow\tproperty"
+					],
+					[
+						"mari",
+						"margin\tproperty"
+					],
+					[
+						"bac",
+						"background-color\tproperty"
+					],
+					[
+						"inline",
+						"inline-block\tdisplay"
+					],
+					[
+						"getPro",
+						"getProblemCode"
+					],
+					[
+						"problem",
+						"problemMetaData"
+					],
+					[
+						"prob",
+						"problemMetaData"
+					],
+					[
+						"TEMPLATE",
+						"TEMPLATE_PATH"
+					],
+					[
+						"conlo",
+						"console_log"
+					],
+					[
+						"TEMPL",
+						"TEMPLATE_PATH"
+					],
+					[
+						"en",
+						"env/"
+					],
+					[
+						"mkdir",
+						"mkdirp.sync"
+					],
+					[
+						"conten",
+						"contents"
+					],
+					[
+						"writeF",
+						"fs.writeFileSync"
+					],
+					[
+						"parse",
+						"parseInt\t( s: string, radix: int ): int Global"
+					],
+					[
+						"transion",
+						"transition-delay\tproperty"
+					],
+					[
+						"random",
+						"randomUserName"
+					],
+					[
+						"ran",
+						"Math_random\t(): number Math"
+					],
+					[
+						"json",
+						"JSON_parse\t( json: string ): any JSON"
+					],
+					[
+						"expre",
+						"express.static"
+					],
+					[
+						"Data",
+						"DataTypes"
+					],
+					[
+						"getEleme",
+						"getElementsByTagName\t( localName: DOMString ): HTMLCollection Document"
+					],
+					[
+						"document",
+						"document\t: Document Window"
+					],
+					[
+						"getE",
+						"getElementById\t( elementId: DOMString ): Element Document"
+					],
+					[
+						"sed",
+						"second_max"
+					],
+					[
+						"second",
+						"second_max_left"
+					],
+					[
+						"fre",
+						"frequencies"
+					],
+					[
+						"gethostname",
+						"gethostname()\tfunction ⟠"
+					],
+					[
+						"ROTate",
+						"ROTATE_90_CLOCKWISE"
+					],
+					[
+						"IMREAd",
+						"IMREAD_GRAYSCALE"
+					],
+					[
+						"ROT",
+						"ROTATE_90_CLOCKWISE\tint ⟠"
+					],
+					[
+						"nump",
+						"numpy as np\tmodule ⟠"
+					],
+					[
+						"IMREAD",
+						"IMREAD_GRAYSCALE"
+					],
+					[
+						"c",
+						"curr"
+					],
+					[
+						"FILE",
+						"FILE_NAME"
+					],
+					[
+						"file",
+						"FILE_NAME"
+					],
+					[
+						"mile",
+						"milestones"
+					],
+					[
+						"ml",
+						"milestone_count"
+					],
+					[
+						"miles",
+						"milestones"
+					],
+					[
+						"coins",
+						"coins_size"
+					],
+					[
+						"all",
+						"allIndices"
+					],
+					[
+						"coin",
+						"coin_index"
+					],
+					[
+						"Arit",
+						"arithmeticObject"
+					],
+					[
+						"Arith",
+						"Arithmetic"
+					],
+					[
+						"string",
+						"string_lcs"
+					],
+					[
+						"choice",
+						"choice2"
+					],
+					[
+						"targe",
+						"target"
+					],
+					[
+						"prei",
+						"print_combination_bounded"
+					],
+					[
+						"tar",
+						"target"
+					],
+					[
+						"targ",
+						"target_temp"
+					],
+					[
+						"print_",
+						"print_combination_unbounded"
+					],
+					[
+						"max_ub",
+						"max_value_unbounded"
+					],
+					[
+						"optim",
+						"optimal_coins_top_down"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/darkangel/leetcode/march-7/160.cpp",
+					"settings":
+					{
+						"buffer_size": 109,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Java/JavaC.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/User/python_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/python_custom_build.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/python_build.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/User/python_custom_build.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"new",
+						"ANF: New File"
+					],
+					[
+						"ui",
+						"UI: Select Theme"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"tm",
+						"View: Toggle Menu"
+					],
+					[
+						"ui thee",
+						"UI: Select Theme"
+					],
+					[
+						"color theme",
+						"UI: Select Color Scheme"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"convert inden",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"indentation",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"ui se",
+						"UI: Select Theme"
+					],
+					[
+						"jsel",
+						"Set Syntax: JSONBABEL"
+					],
+					[
+						"javasc",
+						"Set Syntax: JavaScript (Babel)"
+					],
+					[
+						"json",
+						"Set Syntax: JSONBABEL"
+					],
+					[
+						"settings",
+						"Preferences: Settings"
+					],
+					[
+						"setbabel",
+						"Set Syntax: JSONBABEL"
+					],
+					[
+						"setjson",
+						"Set Syntax: JSONBABEL"
+					],
+					[
+						"sjson",
+						"Set Syntax: JSON"
+					],
+					[
+						"setbabe",
+						"Set Syntax: JavaScript (Babel)"
+					],
+					[
+						"set json",
+						"Set Syntax: JSON"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"babel",
+						"Set Syntax: JavaScript (Babel)"
+					],
+					[
+						"set synta json",
+						"Set Syntax: JSON"
+					],
+					[
+						"synta",
+						"Set Syntax: Perl"
+					],
+					[
+						"settings ",
+						"Preferences: Settings"
+					],
+					[
+						"set babel",
+						"Set Syntax: JavaScript (Babel)"
+					],
+					[
+						"set",
+						"Set Syntax: Tcl"
+					],
+					[
+						"sett",
+						"Preferences: Settings"
+					],
+					[
+						"u ",
+						"UI: Select Theme"
+					],
+					[
+						"status",
+						"View: Toggle Status Bar"
+					],
+					[
+						"install p",
+						"Package Control: Install Package"
+					],
+					[
+						"remove ",
+						"Package Control: Remove Package"
+					],
+					[
+						"set javasc",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"set syntax: jsx",
+						"Set Syntax: JSX"
+					],
+					[
+						"set synta jsx",
+						"Set Syntax: JSX"
+					],
+					[
+						"set syn java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"set syn jsx",
+						"Set Syntax: JSX"
+					],
+					[
+						"cance",
+						"Build: Cancel"
+					],
+					[
+						"terminal",
+						"Terminal: Open"
+					],
+					[
+						"cancel ",
+						"Build: Cancel"
+					],
+					[
+						"build",
+						"Build: New Build System"
+					],
+					[
+						"docs",
+						"Kite: Docs At Cursor"
+					],
+					[
+						"kite doct",
+						"Kite: Docs At Cursor"
+					],
+					[
+						"kite",
+						"Kite: Open Copilot"
+					],
+					[
+						"kite start",
+						"Kite: Start Engine"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"sort",
+						"Sort Lines"
+					],
+					[
+						"drop",
+						"Origami: Destroy Current Pane"
+					],
+					[
+						"togsta",
+						"View: Toggle Status Bar"
+					],
+					[
+						"togm",
+						"View: Toggle Menu"
+					],
+					[
+						"sethtml",
+						"Set Syntax: HTML"
+					],
+					[
+						"list ",
+						"Package Control: List Packages"
+					],
+					[
+						"installed",
+						"Package Control: Install Local Dependency"
+					],
+					[
+						"setejs",
+						"Set Syntax: EJS"
+					],
+					[
+						"disba",
+						"Package Control: Disable Package"
+					],
+					[
+						"togme",
+						"View: Toggle Menu"
+					],
+					[
+						"format",
+						"SublimeAStyleFormatter: Format Current File"
+					],
+					[
+						"settype",
+						"Set Syntax: TypeScript"
+					],
+					[
+						"togmen",
+						"View: Toggle Menu"
+					],
+					[
+						"oriright",
+						"Origami: Create Pane on the Right"
+					],
+					[
+						"set c",
+						"Set Syntax: C"
+					],
+					[
+						"termina",
+						"Terminal: Open"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"installe",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"delete",
+						"File: Delete"
+					],
+					[
+						"todo",
+						"TodoReview: Open Files"
+					],
+					[
+						"color the",
+						"Color Highlight: Color Highlight Current File"
+					],
+					[
+						"colr",
+						"Color Highlight: Reset"
+					],
+					[
+						"togmne",
+						"View: Toggle Menu"
+					],
+					[
+						"keyb",
+						"Preferences: Key Bindings"
+					],
+					[
+						"indentat",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"open",
+						"File: Open In Browser - Production Server"
+					],
+					[
+						"destr",
+						"Origami: Destroy Current Pane"
+					],
+					[
+						"open in br",
+						"File: Open In Browser - Production Server"
+					],
+					[
+						"oridestr",
+						"Origami: Destroy Current Pane"
+					],
+					[
+						"orizoom",
+						"Origami: Zoom Current Pane"
+					],
+					[
+						"ori right",
+						"Origami: Create Pane on the Right"
+					],
+					[
+						"drop pa",
+						"Origami: Destroy Current Pane"
+					],
+					[
+						"origright",
+						"Origami: Create Pane on the Right"
+					],
+					[
+						"des cur",
+						"Origami: Destroy Current Pane"
+					],
+					[
+						"orrig",
+						"Origami: Create Pane on the Right"
+					],
+					[
+						"sestting",
+						"Preferences: Settings"
+					],
+					[
+						"lef",
+						"Origami: Create Pane on the Left"
+					],
+					[
+						"tog",
+						"View: Toggle Menu"
+					],
+					[
+						"tog me",
+						"View: Toggle Menu"
+					],
+					[
+						"togg",
+						"Emmet: Toggle Comment"
+					],
+					[
+						"zoom",
+						"Origami: Unzoom Current Pane"
+					],
+					[
+						"new ",
+						"ANF: New File"
+					],
+					[
+						"new file",
+						"File: New View into File"
+					],
+					[
+						"origamide",
+						"Origami: Destroy Current Pane"
+					],
+					[
+						"oleft",
+						"Origami: Create Pane on the Left"
+					],
+					[
+						"ori destr",
+						"Origami: Destroy Current Pane"
+					],
+					[
+						"dri destro",
+						"Origami: Destroy Pane on the Right"
+					],
+					[
+						"ori drop",
+						"Origami: Destroy Pane Above"
+					],
+					[
+						"ori rig",
+						"Origami: Create Pane on the Right"
+					],
+					[
+						"ori bel",
+						"Origami: Create Pane Below"
+					],
+					[
+						"ori left",
+						"Origami: Create Pane on the Left"
+					],
+					[
+						"de",
+						"File: Delete"
+					],
+					[
+						"remove p",
+						"Package Control: Remove Package"
+					],
+					[
+						"ren",
+						"Rename File"
+					],
+					[
+						"rename",
+						"Rename File"
+					],
+					[
+						"new f",
+						"ANF: New File"
+					],
+					[
+						"new fi",
+						"File: New View into File"
+					],
+					[
+						"tme",
+						"View: Toggle Menu"
+					],
+					[
+						"togl",
+						"View: Toggle Menu"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"toggle men",
+						"View: Toggle Menu"
+					],
+					[
+						"scheme",
+						"UI: Select Theme"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"toggle menu",
+						"View: Toggle Menu"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"view stat",
+						"View: Toggle Status Bar"
+					],
+					[
+						"toggl mne",
+						"View: Toggle Menu"
+					],
+					[
+						"togglem",
+						"View: Toggle Menu"
+					],
+					[
+						"package install",
+						"Package Control: Install Package"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"remove packa",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal ",
+						"Package Control: Install Package"
+					],
+					[
+						"goto ",
+						"Emmet: Go to Previous Edit Point"
+					],
+					[
+						"toggle",
+						"View: Toggle Status Bar"
+					],
+					[
+						"toggle stat",
+						"View: Toggle Status Bar"
+					],
+					[
+						"Set Syntax",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"set syntac text",
+						"Set Syntax: reStructuredText"
+					],
+					[
+						"diff",
+						"Set Syntax: Diff"
+					],
+					[
+						"di",
+						"Set Syntax: Diff"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 267.0,
+				"history":
+				[
+					"return",
+					"return;",
+					"exit()",
+					"os.listdir()",
+					"import os",
+					"exit()",
+					"ls"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": false,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": true,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/darkangel/leetcode/march-7"
+			],
+			"file_history":
+			[
+				"/home/darkangel/leetcode/march-7/160. Intersection of Two Linked Lists.md",
+				"/home/darkangel/leetcode/march-7/83. Remove Duplicates from Sorted List.md",
+				"/home/darkangel/leetcode/march-7/83.cpp",
+				"/home/darkangel/leetcode/march-7/21.cpp",
+				"/home/darkangel/leetcode/march-7/21_recursion.cpp",
+				"/home/darkangel/leetcode/march-7/21. Merge Two Sorted Lists.md",
+				"/tmp/main.cpp",
+				"/home/darkangel/competitivecoding/Gradient Challenge MAR21/Kapil and Strings/K.cpp",
+				"/home/darkangel/competitivecoding/Gradient Challenge MAR21/Uneven Weights/U.cpp",
+				"/home/darkangel/competitivecoding/Gradient Challenge MAR21/The Automatic Door/T.cpp",
+				"/home/darkangel/leetcode/march-7/206.recursively reverse a linked list.md",
+				"/home/darkangel/leetcode/march-7/206.cpp",
+				"/home/darkangel/genetic/main.py",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/github-fighter/app/index.css",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/github-fighter/app/index.js",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/github-fighter/app/components/Popular.js",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/non-contextual-topics/props/app/Hello.js",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/non-contextual-topics/props/app/index.css",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/non-contextual-topics/props/app/index.js",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/non-contextual-topics/props/app/App.js",
+				"/home/darkangel/leetcode/march-6/237. Delete Node in a Linked List.md",
+				"/home/darkangel/leetcode/march-6/876.Middle of the Linked List.md",
+				"/home/darkangel/leetcode/march-6/1290.cpp",
+				"/home/darkangel/leetcode/march-6/1474.Delete N Nodes After M Nodes of a Linked List.cpp",
+				"/home/darkangel/leetcode/march-6/1290. Convert Binary Number in a Linked List to Integer.md",
+				"/home/darkangel/leetcode/march-6/1474.Delete N Nodes After M Nodes of a Linked List.md",
+				"/home/darkangel/leetcode/march-6/1290. Convert Binary Number in a Linked List to Integer",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/socket",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/sockets/server.js",
+				"/home/darkangel/Documents/computer-networking/network-programming/echo-server-sockets/client.py",
+				"/home/darkangel/Documents/computer-networking/network-programming/echo-server-sockets/server.py",
+				"/home/darkangel/Documents/computer-networking/network-programming/echo-cli-ser/server.py",
+				"/home/darkangel/Documents/computer-networking/network-programming/simulate-forwarding-table/string_utils.h",
+				"/home/darkangel/Documents/computer-networking/network-programming/simulate-forwarding-table/bitset_conversion_utils.h",
+				"/home/darkangel/Documents/computer-networking/network-programming/simulate-forwarding-table/calculation.h",
+				"/home/darkangel/Documents/computer-networking/network-programming/simulate-forwarding-table/sample-forwarding-table.txt",
+				"/home/darkangel/Documents/computer-networking/network-programming/simulate-forwarding-table/main.cpp",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/non-contextual-topics/webpack.config.js",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/non-contextual-topics/package.json",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/non-contextual-topics/app/index.css",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/non-contextual-topics/app/index.js",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/non-contextual-topics/README.md",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/noncontextual-learning/app/index.js",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/noncontextual-learning/app/index.css",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/noncontextual-learning/app/index.html",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/noncontextual-learning/webpack.config.js",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/noncontextual-learning/package.json",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/first_component/package.json",
+				"/home/darkangel/.config/sublime-text-3/Packages/Babel/JSON.tmLanguage",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/first_component/app/index.js",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/first_component/app/index.css",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/first_component/dist/index.html",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/first_component/webpack.config.js",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/first_component/dist/index_bundle.js",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/first_component/app/index.html",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/first_component/app/untitled.js",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/first_component/README.md",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/first_component/package-lock.json",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/first_component/app/nibba.js",
+				"/home/darkangel/.config/sublime-text-3/Packages/Babel/JavaScript (Babel).tmLanguage",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/first_component/app/test.js",
+				"/home/darkangel/Desktop/Dev/Frontend/react/course_projects/first_component/.gitignore",
+				"/home/darkangel/.config/sublime-text-3/Packages/User/python_build.sublime-build",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/sir/FullStack_NodeJS_Live_March2020/Lecture16/socket-intro/README.md",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/sockets/public/client.js",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/sockets/public/index.html",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/sockets/node_modules/express/lib/application.js",
+				"/home/darkangel/Documents/computer-networking/network-programming/echoserver.py",
+				"/home/darkangel/Desktop/Dev/Backend/backend-apps/conduit/src/models/tagModel.js",
+				"/home/darkangel/Desktop/Dev/Backend/backend-apps/conduit/src/models/articleModel.js",
+				"/home/darkangel/Desktop/Dev/Backend/backend-apps/conduit/src/models/commentModel.js",
+				"/home/darkangel/Desktop/Dev/Backend/backend-apps/conduit/src/models/userModel.js",
+				"/home/darkangel/Desktop/Dev/Backend/backend-apps/conduit/src/models/README.md",
+				"/home/darkangel/Desktop/Dev/Backend/backend-apps/conduit/src/server.js",
+				"/home/darkangel/Desktop/Dev/Backend/backend-apps/conduit/secret/Realworld_NodeJS_Sequelize/README.md",
+				"/home/darkangel/Desktop/Dev/Backend/backend-apps/conduit/src/db/index.js",
+				"/home/darkangel/Desktop/Dev/Backend/backend-apps/conduit/src/models/profileModel.js",
+				"/home/darkangel/Desktop/Dev/Backend/backend-apps/jwt-ninja/pokemon-auth/public/styles.css",
+				"/home/darkangel/Desktop/Dev/Backend/backend-apps/jwt-ninja/pokemon-auth/views/partials/header.ejs",
+				"/tmp/p/in5.txt",
+				"/tmp/p/in4.txt",
+				"/tmp/p/in3.txt",
+				"/tmp/p/in2.txt",
+				"/tmp/p/in1.txt",
+				"/home/darkangel/contest/1491/a/a.cpp",
+				"/home/darkangel/Desktop/Dev/Backend/ts-express/src/views/index.ejs",
+				"/home/darkangel/Desktop/Dev/Backend/cli-apps/rocket-cp/TOLEARN.md",
+				"/tmp/CopyQ.qSzgbM.png",
+				"/home/darkangel/Desktop/Dev/Backend/cli-apps/rocket-cp/TOIMPROVE.md",
+				"/tmp/CopyQ.UNdCyC.png",
+				"/home/darkangel/Desktop/Dev/Backend/cli-apps/rocket-cp/.gitignore",
+				"/home/darkangel/Desktop/Dev/Backend/cli-apps/rocket-cp/testing/Makefile",
+				"/home/darkangel/Desktop/Dev/Backend/cli-apps/rocket-cp/package-lock.json",
+				"/home/darkangel/Desktop/Dev/Backend/cli-apps/rocket-cp/package.json",
+				"/home/darkangel/Desktop/linux-programming/overview/2. File input output/writing to a file.c",
+				"/home/darkangel/Desktop/linux-programming/overview/2. File input output/reading from a file.c",
+				"/home/darkangel/Desktop/linux-programming/overview/2. File input output/somefile.txt",
+				"/home/darkangel/Desktop/linux-programming/overview/introduction.c",
+				"/home/darkangel/main.cpp",
+				"/home/darkangel/Desktop/Dev/Frontend/Vanilla/css-2/2-typography/embedding-web-fonts/style.css",
+				"/home/darkangel/Downloads/8Queen.py",
+				"/tmp/kite_tutorial.py",
+				"/home/darkangel/google-hash-code/HashCode2020/Books.py",
+				"/home/darkangel/Downloads/default.html",
+				"/home/darkangel/google-hash-code/main.py",
+				"/home/darkangel/google-hash-code/ms/HashCode2020/Books.py",
+				"/home/darkangel/google-hash-code/input.txt",
+				"/home/darkangel/google-hash-code/output.txt",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/morgan/public/panja.html",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/morgan/public/index.html",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/morgan/req",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/query design.sql",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/src/public/app/write-post.js",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/src/public/app/all-posts.js",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/src/public/components/write-post.html",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/src/public/index.html",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/src/public/components/all-posts.html",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/src/public/components/navbar.html",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/src/public/app/navbar.js",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/src/public/app/common.js",
+				"/home/darkangel/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+				"/home/darkangel/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/README.md",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/src/public/app/common.css",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/src/public/components/all-articles.html",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/dummydata.faker",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/src/routes/users/index.js",
+				"/home/darkangel/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/secret/components/navbar.html"
+			],
+			"find":
+			{
+				"height": 53.0
+			},
+			"find_in_files":
+			{
+				"height": 244.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"value",
+					"|"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/darkangel/leetcode/march-7"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/darkangel/leetcode/march-7/160.cpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 109,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										100,
+										100
+									]
+								],
+								"settings":
+								{
+									"_anf_new": "",
+									"syntax": "Packages/C++/C++.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 53.0
+			},
+			"input":
+			{
+				"height": 132.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.590115419704,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.astyle_error_message":
+			{
+				"height": 0.0
+			},
+			"output.doc":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 460.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.nodejs":
+			{
+				"height": 80.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 102.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"c",
+						"C.cpp"
+					],
+					[
+						"index.html",
+						"app/index.html"
+					],
+					[
+						"css",
+						"app/index.css"
+					],
+					[
+						"pop",
+						"app/components/Popular.js"
+					],
+					[
+						"inde",
+						"app/index.js"
+					],
+					[
+						"hello",
+						"app/Hello.js"
+					],
+					[
+						"273",
+						"237. Delete Node in a Linked List.md"
+					],
+					[
+						"cpp",
+						"1474.Delete N Nodes After M Nodes of a Linked List.cpp"
+					],
+					[
+						"index",
+						"public/index.html"
+					],
+					[
+						"cli",
+						"echo-server-sockets/client.py"
+					],
+					[
+						"sample",
+						"simulate-forwarding-table/sample-forwarding-table.txt"
+					],
+					[
+						"utils",
+						"simulate-forwarding-table/utils.h"
+					],
+					[
+						"pc",
+						"package.json"
+					],
+					[
+						"webpack",
+						"webpack.config.js"
+					],
+					[
+						"pak",
+						"package.json"
+					],
+					[
+						"index.css",
+						"app/index.css"
+					],
+					[
+						"app",
+						"app/index.js"
+					],
+					[
+						"read",
+						"README.md"
+					],
+					[
+						"pack",
+						"package.json"
+					],
+					[
+						"packa",
+						"package.json"
+					],
+					[
+						"we",
+						"webpack.config.js"
+					],
+					[
+						"pac",
+						"package.json"
+					],
+					[
+						"bund",
+						"dist/index_bundle.js"
+					],
+					[
+						"web",
+						"webpack.config.js"
+					],
+					[
+						"json",
+						"package.json"
+					],
+					[
+						"",
+						"README.md"
+					],
+					[
+						"readem",
+						"README.md"
+					],
+					[
+						"server",
+						"server.js"
+					],
+					[
+						"application",
+						"node_modules/express/lib/application.js"
+					],
+					[
+						"ser",
+						"server.py"
+					],
+					[
+						"rel",
+						"src/models/relations.js"
+					],
+					[
+						"tagm",
+						"src/models/tagModel.js"
+					],
+					[
+						"commn",
+						"src/models/commentModel.js"
+					],
+					[
+						"model/index",
+						"secret/Realworld_NodeJS_Sequelize/src/models/index.js"
+					],
+					[
+						"readme",
+						"src/models/README.md"
+					],
+					[
+						"reaedme",
+						"secret/Realworld_NodeJS_Sequelize/README.md"
+					],
+					[
+						"dbin",
+						"src/db/index.js"
+					],
+					[
+						"userMode",
+						"src/models/userModel.js"
+					],
+					[
+						"tag",
+						"src/models/tagModel.js"
+					],
+					[
+						"prom",
+						"src/models/profileModel.js"
+					],
+					[
+						"cm",
+						"src/models/commentModel.js"
+					],
+					[
+						"sre",
+						"src/server.js"
+					],
+					[
+						"script",
+						"script.sh"
+					],
+					[
+						"in5",
+						"in5.txt"
+					],
+					[
+						"in4",
+						"in4.txt"
+					],
+					[
+						"in3",
+						"in3.txt"
+					],
+					[
+						"in2",
+						"in2.txt"
+					],
+					[
+						"in1",
+						"in1.txt"
+					],
+					[
+						"auth",
+						"authServer.js"
+					],
+					[
+						"a.cpp",
+						"a/a.cpp"
+					],
+					[
+						"b.cpp",
+						"b/b.cpp"
+					],
+					[
+						"a",
+						"a/a.cpp"
+					],
+					[
+						"pap",
+						"Palpal Strings/P.cpp"
+					],
+					[
+						"to",
+						"TOIMPROVE.md"
+					],
+					[
+						"out",
+						"output.txt"
+					],
+					[
+						"re",
+						"req"
+					],
+					[
+						"wrte",
+						"src/public/app/write-post.js"
+					],
+					[
+						"wir",
+						"src/public/components/write-post.html"
+					],
+					[
+						"write",
+						"src/public/app/write-post.js"
+					],
+					[
+						"poston",
+						"src/controllers/postController.js"
+					],
+					[
+						"all",
+						"src/public/app/all-posts.js"
+					],
+					[
+						"common",
+						"src/public/app/common.js"
+					],
+					[
+						"navba",
+						"src/public/components/navbar.html"
+					],
+					[
+						"common.css",
+						"src/public/app/common.css"
+					],
+					[
+						"navbar",
+						"src/public/components/navbar.html"
+					],
+					[
+						"rread",
+						"~/Desktop/Dev/Backend/course-files/arnav-gupta/social-media-app/README.md"
+					],
+					[
+						"navbar.html",
+						"secret/components/navbar.html"
+					],
+					[
+						"route user",
+						"src/routes/users/index.js"
+					],
+					[
+						"sere",
+						"src/server.js"
+					],
+					[
+						"routesuser",
+						"src/routes/users/index.js"
+					],
+					[
+						"usercon",
+						"src/controllers/userController.js"
+					],
+					[
+						"comonjs",
+						"secret/app/common.js"
+					],
+					[
+						"comm",
+						"src/controllers/commentController.js"
+					],
+					[
+						"READ",
+						"README.md"
+					],
+					[
+						"user",
+						"src/utils/usernameUtils.js"
+					],
+					[
+						"comment",
+						"src/controllers/commentController.js"
+					],
+					[
+						"mode",
+						"src/db/models.js"
+					],
+					[
+						"meida",
+						"1-layout/media-queries/stylesheets/style.css"
+					],
+					[
+						"index grid",
+						"1-layout/grid/index.html"
+					],
+					[
+						"media",
+						"1-layout/media-queries/stylesheets/style.css"
+					],
+					[
+						"b.cp",
+						"b/b.cpp"
+					],
+					[
+						"hidi",
+						"hiding-elements/index.html"
+					],
+					[
+						"model",
+						"src/db/models.js"
+					],
+					[
+						"models",
+						"polls/models.py"
+					],
+					[
+						"settings",
+						"djangobeginner/settings.py"
+					],
+					[
+						"urls",
+						"djangobeginner/urls.py"
+					],
+					[
+						"jq",
+						"jquery.js"
+					],
+					[
+						"file",
+						"src/fileUtils.js"
+					],
+					[
+						"comme",
+						"src/controllers/commentController.js"
+					],
+					[
+						"conrtol",
+						"src/controllers/userController.js"
+					],
+					[
+						"usern",
+						"src/utils/usernameUtils.js"
+					],
+					[
+						"usernam",
+						"src/utils/usernameUtils.js"
+					],
+					[
+						"db.",
+						"src/db/models.js"
+					],
+					[
+						"contro",
+						"src/controllers/commentController.js"
+					],
+					[
+						"contr",
+						"src/controllers/userController.js"
+					],
+					[
+						"ctrono",
+						"src/controllers/postController.js"
+					],
+					[
+						"scr",
+						"scripts/script.js"
+					],
+					[
+						"c1.c",
+						"c1/c1.cpp"
+					],
+					[
+						"tutori",
+						"tutorial2.py"
+					],
+					[
+						"cp",
+						"f.cpp"
+					],
+					[
+						"con",
+						"db/connector.js"
+					],
+					[
+						"conn",
+						"db/connector.js"
+					],
+					[
+						"conne",
+						"db/connector.js"
+					],
+					[
+						"task",
+						"models/tasks.js"
+					],
+					[
+						"yarn",
+						"yarn.lock"
+					],
+					[
+						"serve",
+						"server.js"
+					],
+					[
+						"yar",
+						"yarn.lock"
+					],
+					[
+						"mysq",
+						"node_modules/mysql2/lib/auth_plugins/mysql_native_password.js"
+					],
+					[
+						"config",
+						"config.def.h"
+					],
+					[
+						"dmenu.1",
+						"dmenu.1"
+					],
+					[
+						"1",
+						"dmenu.1"
+					],
+					[
+						"dmenu.c",
+						"dmenu.c"
+					],
+					[
+						"in",
+						"input.txt"
+					],
+					[
+						"tem",
+						"template.cpp"
+					],
+					[
+						"temp",
+						"template.cpp"
+					],
+					[
+						"app fetc",
+						"7 - Fetch API/app.js"
+					],
+					[
+						"app.",
+						"8 - EasyHTTP FETCH and PROMISES/app.js"
+					],
+					[
+						"fetc",
+						"7 - Fetch API/posts.json"
+					],
+					[
+						"fetch",
+						"7 - Fetch API/app.js"
+					],
+					[
+						"inp",
+						"input.txt"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 442.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 781.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 328.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			},
+			"window_id": 151,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AceJump",
+		"AdvancedNewFile",
+		"Atomic Color Scheme",
+		"AutoFileName",
+		"Babel",
+		"Color Highlight",
+		"EJS",
+		"Emmet",
+		"JavaScript Completions",
+		"Material Theme",
+		"Oceanic Next Color Scheme",
+		"Origami",
+		"Package Control",
+		"Select Quoted",
+		"SideBarEnhancements",
+		"Simple JSX",
+		"SublimeAStyleFormatter",
+		"Terminal",
+		"Theme - Brogrammer",
+		"TypeScript"
+	]
+}

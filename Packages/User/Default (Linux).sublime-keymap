@@ -1,0 +1,6 @@
+
+[
+	{ "keys": ["alt+shift+c"], "command": "open_terminal" },
+	{ "keys": ["ctrl+k"], "command": "toggle_side_bar" },
+	{ "keys": ["ctrl+q"], "command": "cancel_build" },
+]
